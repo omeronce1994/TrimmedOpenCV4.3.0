@@ -1,0 +1,3 @@
+include ':opencvLib430'
+include ':app'
+rootProject.name = "TrimmedOpenCV4.3.0"
