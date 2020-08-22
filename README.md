@@ -1,6 +1,6 @@
 # TrimmedOpenCV4.3.0
 
-[![](https://jitpack.io/v/omeronce1994/TrimmedOpenCV4.3.0.svg)](https://jitpack.io/#omeronce1994/TrimmedOpenCV4.3.0)
+[![](https://jitpack.io/v/omeronce1994/TrimmedOpenCV4.3.0.svg)](https://jitpack.io/#omeronce1994/TrimmedOpenCV4.3.0)[ ![Download](https://api.bintray.com/packages/omeronce1994/TrimmedOpenCV4.3.0/omeronce.android.trimmedopencv430/images/download.svg) ](https://bintray.com/omeronce1994/TrimmedOpenCV4.3.0/omeronce.android.trimmedopencv430/_latestVersion)
 
 
 This library contains build of OpenCV 4.3.0 for an android application.
