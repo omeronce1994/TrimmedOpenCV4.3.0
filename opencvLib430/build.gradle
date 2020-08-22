@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply from: './scripts/bintrayConfig.gradle'
 
 android {
     compileSdkVersion 29
@@ -14,6 +15,13 @@ android {
             }
         }
     }
+
+    android {
+        lintOptions {
+            abortOnError false
+        }
+    }
+
 
     buildTypes {
         release {
