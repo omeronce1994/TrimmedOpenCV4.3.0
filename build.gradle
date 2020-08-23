@@ -2,7 +2,7 @@
 ext {
     libPomUrl = 'https://github.com/omeronce1994/TrimmedOpenCV4.3.0'
     libGithubRepo = 'omeronce1994/TrimmedOpenCV4.3.0'
-    libModuleName = 'opencvLib430'
+    libModuleName = 'TrimmedOpenCVLib430'
     libModuleDesc = 'This library contains build of OpenCV 4.3.0 for an android application. The build is trimmed only for core, imgproc and imgcodecs modules so it smaller than the full build.'
     libBintrayName = 'TrimmedOpenCV4.3.0'
     libVersionName = '1.0.1'
