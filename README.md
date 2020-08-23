@@ -1,6 +1,7 @@
 # TrimmedOpenCV4.3.0
 
-[![](https://jitpack.io/v/omeronce1994/TrimmedOpenCV4.3.0.svg)](https://jitpack.io/#omeronce1994/TrimmedOpenCV4.3.0) [ ![Download](https://api.bintray.com/packages/omeronce1994/TrimmedOpenCV4.3.0/TrimmedOpenCV4.3.0/images/download.svg) ](https://bintray.com/omeronce1994/TrimmedOpenCV4.3.0/TrimmedOpenCV4.3.0/_latestVersion)
+[![](https://jitpack.io/v/omeronce1994/TrimmedOpenCV4.3.0.svg)](https://jitpack.io/#omeronce1994/TrimmedOpenCV4.3.0)
+ [ ![Download](https://api.bintray.com/packages/omeronce1994/TrimmedOpenCV4.3.0/TrimmedOpenCV4.3.0/images/download.svg) ](https://bintray.com/omeronce1994/TrimmedOpenCV4.3.0/TrimmedOpenCV4.3.0/_latestVersion)
 
 
 
